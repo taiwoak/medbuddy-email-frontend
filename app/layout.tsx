@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Medbuddy Referral Email",
-  description: "Sends referral email to users",
+  description: "Send Referral Follow-up Email to Users",
 };
 
 export default function RootLayout({
