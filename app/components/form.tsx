@@ -69,7 +69,7 @@ export default function Form() {
             />
         </a>
       </div>
-      <h1 className="text-xl font-bold mb-6">Send Referral Follow-up Email to Users</h1>
+      <h1 className="text-xl font-bold mb-6">Send Referral Updates to Users</h1>
       <form onSubmit={handleSubmit} className="space-y-4">
         <div>
           <label htmlFor="user_first_name" className="block mb-1 font-medium">User's First Name</label>
